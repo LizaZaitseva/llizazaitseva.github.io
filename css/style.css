@@ -1,0 +1,77 @@
+body
+{
+background-position: left bottom;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-image: url(assets/img/hgh7.jpg);
+background-size: cover;
+}
+main{
+margin: 15%; 
+ background: #C0C0C0;
+  padding:50px;
+ background: rgba(255, 234, 192, 0.5);
+  border-radius: 10px; 
+}
+
+.container-1{
+  width: 250px;
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+}
+
+.container-1 input#search{
+  width: 200px;
+  height: 40px;
+  background: #D8BFD8;
+  border: none;
+  font-size: 10pt;
+  float: left;
+  color: #BC8F8F;
+  padding-left: 45px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+
+h1 {
+font-family: Verdana, sans-serif;
+color: white;
+ -webkit-text-stroke: 1.5px white;
+   -webkit-text-fill-color: DarkSlateBlue;
+}
+
+@keyframes animatedBackground {
+0 {
+background-position: 0 0
+}
+100% {
+background-position: -500px 500px;
+}
+style.navbar{
+	background-image: url(assets/img/7896.jpg);
+
+}
+
+figure {
+  
+ text-align: center;
+}
+div.q1_1 h2{
+font-family: Verdana, sans-serif;
+color: black;
+	 -webkit-text-stroke: 1.5px white;
+   -webkit-text-fill-color: Indigo;
+}
+
+
+footer{
+
+  background-image: url(assets/img/ioppppp.jpg);
+  opacity:0.25;
+  filter:alpha(opacity=25)
+  }
+
